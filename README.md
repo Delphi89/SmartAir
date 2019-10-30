@@ -12,12 +12,13 @@ Se mareste valoarea apartamentului datorita efectului anti transpiratie/mucegai/
 
 
 Optiuni de senzori si filtre: CO, CO2, temperatura (inauntru si afara/weather), presiune, umiditate, PM2.5, PM10, VOC (volatile organic compound), NO, NO2 (pentru gaze care vin din afara) , ozon, alte gaze si fum
-consum: sub 4W/h. Optiune de filtru cu ultraviolete.
+
+Consum: sub 4W/h. 
 
 Mai multe moduri de aerisire: programat si automat.
 
 Aplicatie disponibila pentru IOS si Android. Configurare cu Siri, Google Assistant si Alexa
 
-Optional: leduri programabile
+Alte optiuni: filtru cu ultraviolete, leduri programabile...
 
 nota: imaginea apartine unui produs competitor cu mult mai putine optiuni.
