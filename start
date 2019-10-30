@@ -37,6 +37,7 @@ Functii:
  - aerisire, daca afara nu e mai poluat
  - doar filtrare interna
  - perioada de schimbare a filtrului se calculeaza din debit + concentratie de murdarie
+ - se pot scoate usor si spala toate componentele, inclusiv teava. ce nu se schimba (ca filtrele) se spala.
  
   
 monetizare:
