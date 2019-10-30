@@ -8,14 +8,21 @@ Componente
   - conector pentru 3-4 senzori de aer
   - conector pentru senzor de umiditate
   - conector pentru senzor de temperatura
+  - conectori leduri 
   - capacitate wireless
   - alimentare 
-  - sistem de retinere al caldurii (radiator)
-  - senzori: CO2, temp, presiune, umiditate, PM2.5, PM10
+ - sistem de retinere al caldurii (radiator)
+ - senzori: CO2, temp, presiune, umiditate, PM2.5, PM10
+ - sistem leduri
+ - aplicatie mobil (IOS, Android)
+ - programare placa de dezvoltare
+ - sistem admin
+ - sistem colectare statistici
   
   
-  Idei asociate:
+monetizare:
    - monetizare prin abonament de schimbare al filtrelor
+   - valoare statistici
   
   
   Intrebari:
