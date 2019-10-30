@@ -1,0 +1,29 @@
+Componente
+ - tub plastic cu lungimea egala cu grosimea zidului
+ - filtru carbon (intr-un sistem in care poate fi inlocuit usor)
+ - transformator curent
+ - placa de dezvoltare rasbery pi / ESP32 incluzand:
+  - conector pentru ventilator
+  - conector senzor de presiune
+  - conector pentru 3-4 senzori de aer
+  - conector pentru senzor de umiditate
+  - conector pentru senzor de temperatura
+  - capacitate wireless
+  - alimentare 
+  - sistem de retinere al caldurii (radiator)
+  - senzori: CO2, temp, presiune, umiditate, PM2.5, PM10
+  
+  
+  Idei asociate:
+   - monetizare prin abonament de schimbare al filtrelor
+  
+  
+  Intrebari:
+   - cum se poate schimba usor filtrul?
+   - cum poti schimba sensul de deplasare al aerului asfel incat intr-un sens aerul sa se filtreze iar in celalalt sa nu se filtreze
+   - cine/unde se poate produce sistemul
+   - care e pretul potrivit?  
+   - trebuie considerata experienta instalarii (cu carota)
+   - trebuie calculat volumul de aer
+   - izolatie intre tub si perete
+   
