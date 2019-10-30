@@ -1,6 +1,13 @@
 Componente
  - tub plastic cu lungimea egala cu grosimea zidului
- - filtru carbon (intr-un sistem in care poate fi inlocuit usor)
+  - splitter pentru gaura de la bucatarie
+  - sistem care se pune pe geam 
+ - filtru carbon (intr-un sistem in care poate fi inlocuit usor) - 
+  - filtrul se intoarcela 90grade cand aerul este impins afara
+   - sau supapa care ocoleste filtrul prin perete
+   - sau 2 tevi cu ventilator, una de intrare, cealalta de iesire
+ - ventilator silentios
+ - filtru ultraviolete
  - transformator curent
  - placa de dezvoltare rasbery pi / ESP32 incluzand:
   - conector pentru ventilator
@@ -12,21 +19,30 @@ Componente
   - capacitate wireless
   - alimentare 
  - sistem de retinere al caldurii (radiator)
- - senzori: CO2, temp, presiune, umiditate, PM2.5, PM10
+ - senzori: CO, CO2, temperatura (inauntru si afara/weather), presiune, umiditate, PM2.5, PM10, VOC (volatile organic compound), NO, NO2 (pentru gaze care vin din afara) , ozon
  - senzor gaze si fum
+  - senzorii pot fi tinuti si pe alti pereti, in alte pozitii din camera (dezavantajul e ca au nevoie de baterie)
  - sistem leduri
- - aplicatie mobil (IOS, Android)
+ - aplicatie mobil (IOS, Android, conectare la android wearable, echo, assistent, Siri, telegram)
   - mod functionare / reguli / AI
-  - configurare sistem in faza de pre-vanzare
+  - configurare sistem in faza de pre-vanzare / upgradeuri
+  - are valoare sa instalezi aplicatia daca vecinii au sistemul (vezi calitatea aerului, temperatura)
  - programare placa de dezvoltare
  - sistem admin
  - sistem colectare statistici
  - alarma (online si fizica) 
   
   
+Functii:
+ - aerisire, daca afara nu e mai poluat
+ - doar filtrare interna
+ 
+
+  
 monetizare:
    - monetizare prin abonament de schimbare al filtrelor
    - valoare statistici
+   - complexuri noi de imobiliare
   
   
   Intrebari:
@@ -36,12 +52,27 @@ monetizare:
    - care e pretul potrivit?  
    - trebuie considerata experienta instalarii (cu carota)
    - trebuie calculat volumul de aer
-   - izolatie intre tub si perete
-   
-   
+   - izolatie intre tub si perete?
+   - cum tragi firul fara sa se vada?
+      
    Vanzare:
    avantaje vs alte metode:
    odihna
-   sanatate (vs microbi, bacterii, virusi, polen/ambrozie)
+   sanatate (vs praf, micro-particule, microbi, bacterii, virusi, polen/ambrozie)
    izolare fonica
+   izolare miros
    cost savings
+   mareste valoarea apartamentului
+   anti-efect de transpiratie / mucegai/condens
+   
+   Productie
+   arhitectura
+   
+   probleme
+   perdea / draperie
+   gaura in perete
+   
+   
+   target:
+    - orase > blocuri
+   
