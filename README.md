@@ -1,0 +1,23 @@
+# SmartAir
+Indoor Air Enhancement System
+![image](https://user-images.githubusercontent.com/44812157/67863711-140ce400-fb2d-11e9-9b30-c75030d838a7.png)
+
+Sistem de ventilatie pentru apartamente care va ajuta:
+ sa va odihniti mai bine datorita concentratiei mai mici de CO2
+ sa fiti mai sanatosi datorita retinerii prafui, micro-particulelor, microbilor, bacteriilor, virusilor, polenului din ambrozie
+
+Costul se amortizeaza intr-un an la doua persoane din costul medicamentelor si costul incalzirii/racirii camerei. Se salveaza timpul petrecut cu aerisirea camerei.
+Sistemul presupune izolare fonica, oprirea mirosurilor exterioare.
+Se mareste valoarea apartamentului datorita efectului anti transpiratie/mucegai/condens si a experientei cu tehnologia.
+
+
+Optiuni de senzori si filtre: CO, CO2, temperatura (inauntru si afara/weather), presiune, umiditate, PM2.5, PM10, VOC (volatile organic compound), NO, NO2 (pentru gaze care vin din afara) , ozon, alte gaze si fum
+consum: sub 4W/h. Optiune de filtru cu ultraviolete.
+
+Mai multe moduri de aerisire: programat si automat.
+
+Aplicatie disponibila pentru IOS si Android. Configurare cu Siri, Google Assistant si Alexa
+
+Optional: leduri programabile
+
+nota: imaginea apartine unui produs competitor cu mult mai putine optiuni.
