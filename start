@@ -68,10 +68,14 @@ monetizare:
    Productie
    arhitectura
    
-   probleme
+   dificultati:
    perdea / draperie
    gaura in perete
+   alimentare curent
+   controlul calitatii productiei
+   costuri development   
    
+   cost sistem cu 50% din optiunile de mai sus: (<$100 in productie)   
    
    target:
     - orase > blocuri
