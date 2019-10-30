@@ -6,7 +6,9 @@ Componente
   - filtrul se intoarcela 90grade cand aerul este impins afara
    - sau supapa care ocoleste filtrul prin perete
    - sau 2 tevi cu ventilator, una de intrare, cealalta de iesire
- - ventilator silentios
+ - ventilator silentios 
+  - cu cat e mai in afara, cu atat e mai silentios
+  - sau 2 ventilatoare pentru debit mai mare
  - filtru ultraviolete
  - transformator curent
  - placa de dezvoltare rasbery pi / ESP32 incluzand:
@@ -31,6 +33,7 @@ Componente
  - sistem admin
  - sistem colectare statistici
  - alarma (online si fizica) 
+ - optional: telecomanda
   
   
 Functii:
@@ -84,4 +87,10 @@ monetizare:
    
    target:
     - orase > blocuri
+   
+   
+   Exemple: 
+   https://www.youtube.com/watch?v=PwpbSwdeczI
+   https://www.youtube.com/watch?v=aqEqqYar4NA
+   https://www.youtube.com/watch?v=KK6-hvPKiSY
    
