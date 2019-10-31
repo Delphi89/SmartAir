@@ -1,6 +1,6 @@
 # SmartAir
 Indoor Air Enhancement System
-![image](https://user-images.githubusercontent.com/44812157/67863711-140ce400-fb2d-11e9-9b30-c75030d838a7.png)
+![image](https://s12emagst.akamaized.net/products/22676/22675342/images/res_a221576419da3018a934f020613bc9ac_450x450_mpba.jpg)
 
 Sistem de ventilatie pentru apartamente care va ajuta:
  sa va odihniti mai bine datorita concentratiei mai mici de CO2
@@ -10,6 +10,8 @@ Costul se amortizeaza intr-un an la doua persoane din costul medicamentelor si c
 Sistemul presupune izolare fonica, oprirea mirosurilor exterioare.
 Se mareste valoarea apartamentului datorita efectului anti transpiratie/mucegai/condens si a experientei cu tehnologia.
 
+
+![image](https://s12emagst.akamaized.net/products/22676/22675345/images/res_54b20ef69a497c040e4f3e565702727b_450x450_c5sc.jpg)
 
 Optiuni de senzori si filtre: CO, CO2, temperatura (inauntru si afara/weather), presiune, umiditate, PM2.5, PM10, VOC (volatile organic compound), NO, NO2 (pentru gaze care vin din afara) , ozon, alte gaze si fum
 
