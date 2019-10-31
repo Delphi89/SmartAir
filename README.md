@@ -11,7 +11,7 @@ Sistemul presupune izolare fonica, oprirea mirosurilor exterioare.
 Se mareste valoarea apartamentului datorita efectului anti transpiratie/mucegai/condens si a experientei cu tehnologia.
 
 
-![image](https://s12emagst.akamaized.net/products/22676/22675345/images/res_54b20ef69a497c040e4f3e565702727b_450x450_c5sc.jpg)
+Instalarea sistemului in peretele exterior ![image](https://s12emagst.akamaized.net/products/22676/22675345/images/res_54b20ef69a497c040e4f3e565702727b_450x450_c5sc.jpg)
 
 Optiuni de senzori si filtre: CO, CO2, temperatura (inauntru si afara/weather), presiune, umiditate, PM2.5, PM10, VOC (volatile organic compound), NO, NO2 (pentru gaze care vin din afara) , ozon, alte gaze si fum
 
