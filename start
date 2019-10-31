@@ -3,6 +3,7 @@ Componente
   - splitter pentru gaura de la bucatarie
   - sistem care se pune pe geam 
  - filtru carbon (intr-un sistem in care poate fi inlocuit usor) - 
+ - sau filtru care se spala/curata
   - filtrul se intoarcela 90grade cand aerul este impins afara
    - sau supapa care ocoleste filtrul prin perete
    - sau 2 tevi cu ventilator, una de intrare, cealalta de iesire
@@ -33,6 +34,7 @@ Componente
  - sistem admin
  - sistem colectare statistici
  - alarma (online si fizica) 
+ - atenuator zgomot (un cauciuc care se pune inspre camera pentru a nu se auzi ventilatorul)
  - optional: telecomanda
   
   
