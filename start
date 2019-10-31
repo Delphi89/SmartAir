@@ -1,8 +1,9 @@
 Componente
- - tub plastic cu lungimea egala cu grosimea zidului
+ - tub plastic cu teava telescopica pentru a egala lungimea cu grosimea zidului
   - splitter pentru gaura de la bucatarie
   - sistem care se pune pe geam 
- - filtru carbon (intr-un sistem in care poate fi inlocuit usor) - 
+ - filtru carbon (intr-un sistem in care poate fi inlocuit usor) 
+  - senzor murdarire filtru
  - sau filtru care se spala/curata
   - filtrul se intoarcela 90grade cand aerul este impins afara
    - sau supapa care ocoleste filtrul prin perete
@@ -10,6 +11,7 @@ Componente
  - ventilator silentios 
   - cu cat e mai in afara, cu atat e mai silentios
   - sau 2 ventilatoare pentru debit mai mare
+  - trepte de viteza (silent ... turbo) 
  - filtru ultraviolete
  - transformator curent
  - placa de dezvoltare rasbery pi / ESP32 incluzand:
@@ -35,7 +37,9 @@ Componente
  - sistem colectare statistici
  - alarma (online si fizica) 
  - atenuator zgomot (un cauciuc care se pune inspre camera pentru a nu se auzi ventilatorul)
- - optional: telecomanda
+ - clapeta anti-retur
+ - bare anti cuib-de-pasari la iesire
+ - optional: telecomanda, afisaj color
   
   
 Functii:
@@ -63,6 +67,8 @@ monetizare:
    - cum tragi firul fara sa se vada?
    - se poate gestiona umiditatea sau doar masura? feedback received: "Si costa foarte mult apoi curentul. Ca sa reduca umiditatea trebuie sa raceasca aerul pana la 5 grade, si apoi sa-l incalzeasca la loc dupa de se scoate apa prin condens"
    - ce se intampla cu filtrele atunci cand ploua afara si umiditatea e peste 90%? se umezesc? se strica?
+   - care este eficienta energetica si clasa de eficienta energetica?
+   - cum se primeste standardul de IP44 (sau ce trebuie pentru bucatarie si baie)?
       
    Vanzare:
    avantaje vs alte metode:
@@ -92,6 +98,7 @@ monetizare:
    
    
    Exemple: 
+   https://www.emag.ro/recuperator-de-caldura-descentralizat-controller-cp-wall-debit-maxim-de-25-m3-h-29-db-atrea-duplex-wall-100-25/pd/D3VK6QBBM/
    https://www.youtube.com/watch?v=PwpbSwdeczI
    https://www.youtube.com/watch?v=aqEqqYar4NA
    https://www.youtube.com/watch?v=KK6-hvPKiSY
